@@ -4,8 +4,55 @@ footer {
 
 .emph {
   font-style: italic;
+  color: #111;
 }
 
 .embolden {
   font-weight: 600;
+  font-size: 1.1em;
+  color: #900;
 }
+
+/*
+ol {
+  list-style: none;
+}
+
+ol li:before {
+  content: &check;
+}
+*/
+
+
+li.check-mark:before { 
+  content:"\2714\0020"; 
+}    
+
+li.x-mark:before { 
+  content:"\2718\0020"; 
+}  
+
+ol { list-style-type: none; }
+
+
+
+/* .yu ol li:before {
+  content: '❌';
+}
+*/
+
+a:link {
+  color: #900;
+}
+a:visited{
+  color: #949;
+}
+a:hover {
+    color: #600;
+}
+
+/* a:link - a normal, unvisited link
+a:visited - a link the user has visited
+a:hover - a link when the user mouses over it
+a:active 
+*/
