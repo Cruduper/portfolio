@@ -1,5 +1,13 @@
+body  {
+  background-color: rgb(243, 205, 201);
+}
+
 footer {
   font-size: .8em;
+}
+
+p {
+  background-color: rgb(243, 220, 217)
 }
 
 .emph {
@@ -12,17 +20,6 @@ footer {
   font-size: 1.1em;
   color: #900;
 }
-
-/*
-ol {
-  list-style: none;
-}
-
-ol li:before {
-  content: &check;
-}
-*/
-
 
 li.check-mark:before { 
   content:"\2714\0020"; 
