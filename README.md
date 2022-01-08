@@ -18,7 +18,8 @@ This is a demonstration site showcasing all of the projects I've worked on at th
 * Navigate to the top level of the directory
 * Open index.html in a web browser
 
-## Known bugs: 
+## Known bugs:
+none.
 
 [MIT](https://opensource.org/licenses/MIT)
 
