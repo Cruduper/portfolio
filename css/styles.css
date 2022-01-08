@@ -4,6 +4,7 @@ body  {
 
 footer {
   font-size: .8em;
+  float: right;
 }
 
 p {
@@ -39,13 +40,6 @@ li.x-mark:before {
 
 ol { list-style-type: none; }
 
-
-
-/* .yu ol li:before {
-  content: '❌';
-}
-*/
-
 a:link {
   color: #900;
 }
@@ -55,9 +49,3 @@ a:visited{
 a:hover {
     color: #600;
 }
-
-/* a:link - a normal, unvisited link
-a:visited - a link the user has visited
-a:hover - a link when the user mouses over it
-a:active 
-*/
