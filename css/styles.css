@@ -21,6 +21,14 @@ p {
   color: #900;
 }
 
+.light-pink {
+  color: rgb(243, 220, 217);
+}
+
+.salmon-bg {
+  background-color: rgb(224, 141, 131);
+}
+
 li.check-mark:before { 
   content:"\2714\0020"; 
 }    
