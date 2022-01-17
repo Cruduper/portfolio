@@ -19,7 +19,7 @@ This is a demonstration site showcasing all of the projects I've worked on at th
 * Open index.html in a web browser
 
 ## Known bugs:
-none.
+no known bugs
 
 [MIT](https://opensource.org/licenses/MIT)
 

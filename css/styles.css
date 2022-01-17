@@ -7,8 +7,18 @@ footer {
   float: right;
 }
 
+h1  {
+  padding-bottom: 7px;
+}
+
+#title  {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border: 1px solid #555;
+}
+
 p {
-  background-color: rgb(243, 220, 217)
+  background-color: rgb(243, 220, 217);
 }
 
 .emph {
